@@ -5,24 +5,28 @@ import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a passionate MERN stack developer with a knack for crafting scalable web applications. I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile MERN stack developer with a passion for creating efficient and user-friendly web applications. I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I’m a dedicated and adaptable MERN stack developer with a strong passion for building fast, scalable, and intuitive web applications. My experience spans technologies like React, Next.js, Node.js, MongoDB, and MySQL, allowing me to develop robust end-to-end solutions. What started as a curiosity about how things work has grown into a career driven by continuous learning and problem-solving. I thrive in collaborative environments, where I can contribute clean, efficient code and innovative ideas. Outside of development, I enjoy exploring emerging tech, staying active, and giving back through open-source contributions.`;
 
 export const EXPERIENCES = [
   {
     year: "5/2023 - 9/2023",
-    role: " Full Stack Developer",
-    company: "Bolt Iot",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
+    role: "Web Development Intern",
+    company: "Bolt IoT | Bengaluru, Karnataka",
+    description: `Collaborated with a team of developers to create web applications using modern web technologies.
+• Designed and implemented responsive user interfaces, ensuring optimal user experience across different devices.
+• Worked on front-end frameworks, such as HTML, CSS, and JavaScript, to enhance the visual appeal and interactivity of web applications.Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
     technologies: ["HTML","CSS","Javascript", "React.js", "Next.js", "mongoDB"],
   },
  
   {
-    year: "2022 -2023 -> (6months)",
-    role: "Python, Machine Learning and Artificial Intelligence",
-    company: "Perfect Plan B",
-    description: `Developed proficiency in popular Python libraries and frameworks, such as NumPy, Pandas Matplotlib, and Scikit-learn.Hands-on experience in implementing machine learning models and artificial
-intelligence algorithms through practical assignments and projects.`,
-    technologies: ["Python", "Machine Learning", "Artifical Intilligence(AI)"],
+    year: "2024 - 2025 (Currently)",
+    role: "Computer Operator",
+    company: "Khemchand Handicrafts Limited | Rajasthan, Jodhpur",
+    description: `Gained a comprehensive understanding of e-commerce platforms, particularly Shopify, for managing online product listings, order processing, and inventory tracking.
+• Demonstrated expertise in handling advanced technology tools and software to streamline business operations and enhance efficiency.
+• Hands-on experience with managing brand Living Shapes Website, ensuring accurate and attractive product displays to boost online sales.
+• Collaborated with cross-functional teams to integrate technology-driven solutions and maintain seamless workflow processes.`,
+    technologies: ["Shopify", "E-commerce", "Website Managment" ,"Google and Meta Ads" ],
   },
  
 ];
@@ -59,7 +63,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "2/411 Kudi Bhagtasni Housing Board Jodhpur ",
+  address: "A-108 Runecha Dham Society Tanawada JODHPUR, RAJASTHAN 342013 India ",
   phoneNo: "8504899739 ",
   email: "pratulsignh999@gmail.com",
 };
